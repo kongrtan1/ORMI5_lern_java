@@ -1,4 +1,4 @@
-public class Test {
+public class Test_0529 {
 
     /**                                 자바독
     * @author 굿
