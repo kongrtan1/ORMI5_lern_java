@@ -8,8 +8,14 @@ public class Test {
     Person person2 = new Person("강헤주", 12341234, 100000, 20);
     Student student = new Student("학생1");
 
-//        person2.sayHello();
-//        person2.sayMoney();
+
+
+
+
+
+
+    //        person2.sayHello();
+    //        person2.sayMoney();
     person2.teaching(student);
     person2.cheating(student);
     person2.cheating(student);
