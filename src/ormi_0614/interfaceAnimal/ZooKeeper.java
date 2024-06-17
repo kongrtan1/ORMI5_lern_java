@@ -1,4 +1,4 @@
-package ormi_0614.Interface;
+package ormi_0614.interfaceAnimal;
 
 public class ZooKeeper {
 
@@ -10,7 +10,7 @@ public class ZooKeeper {
   //    System.out.println("feed fish"); // 사자가 오면 생선
   //  }
   void feed(Predator predator) {
-    System.out.println("feed meat");
+    System.out.println(predator.getFood());
   }
 
   void feed2(Herbivore herbivore) {
